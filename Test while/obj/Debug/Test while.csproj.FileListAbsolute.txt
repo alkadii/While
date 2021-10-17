@@ -1,0 +1,7 @@
+C:\Users\Kha\Desktop\visual\Test while\Test while\bin\Debug\Test while.exe.config
+C:\Users\Kha\Desktop\visual\Test while\Test while\bin\Debug\Test while.exe
+C:\Users\Kha\Desktop\visual\Test while\Test while\bin\Debug\Test while.pdb
+C:\Users\Kha\Desktop\visual\Test while\Test while\obj\Debug\Test while.csprojAssemblyReference.cache
+C:\Users\Kha\Desktop\visual\Test while\Test while\obj\Debug\Test while.csproj.CoreCompileInputs.cache
+C:\Users\Kha\Desktop\visual\Test while\Test while\obj\Debug\Test while.exe
+C:\Users\Kha\Desktop\visual\Test while\Test while\obj\Debug\Test while.pdb
