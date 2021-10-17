@@ -10,7 +10,7 @@ namespace Test_while
     {
         static void Main(string[] args)
         {
-            while (true)
+            while (false)
             {
                 Console.WriteLine(100);
                 
