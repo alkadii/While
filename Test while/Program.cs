@@ -68,7 +68,7 @@ namespace Test_while
 
             #region While - Beispiel
 
-            string YN ;
+            string YN;
             do
             {
                 Console.Write("Erste Nummer: ");
@@ -77,15 +77,14 @@ namespace Test_while
                 int zwei = int.Parse(Console.ReadLine());
                 int summ = ers + zwei;
                 Console.WriteLine("=========");
-                Console.WriteLine(summ);
+                Console.WriteLine(ers +  " + " + zwei + " = " + summ);
+                Console.WriteLine("===========");
                 Console.Write("Möchten Sie wiederholen (Y,N): ");
                 YN = Console.ReadLine();
             } while (YN == "Y" || YN == "y");
 
 
             #endregion
-
-
 
 
         }
